@@ -35,8 +35,8 @@ keywords = {
     "inscripcion": "request_pre_matricula",
     "inscribirme": "request_pre_matricula",
     "inscribir": "request_pre_matricula",
-    
-
+    "fechas": "request_pre_matricula",
+    "matriculas": "request_pre_matricula",
     "matricula" : "request_matricula",
     "matricularme": "request_matricula",
     "matricular": "request_matricula",
