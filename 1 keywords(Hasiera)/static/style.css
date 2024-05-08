@@ -136,23 +136,16 @@ body {
 .chatbox__content--header {
     color: black;
 }
+
 .chatbox__heading--header {
     font-size: 1.2rem;
-
     color: white; 
-
 }
-
-
 
 .chatbox__description--header {
     font-size: .9rem;
-
     color: white; 
-
 }
-
-
 
 
 /* Messages */
