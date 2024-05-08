@@ -139,12 +139,12 @@ body {
 
 .chatbox__heading--header {
     font-size: 1.2rem;
-    color: white; 
+    /*color: white; */
 }
 
 .chatbox__description--header {
     font-size: .9rem;
-    color: white; 
+    /*color: white; */
 }
 
 
