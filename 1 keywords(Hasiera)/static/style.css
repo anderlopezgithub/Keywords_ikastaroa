@@ -133,6 +133,9 @@ body {
     margin-right: 10px;
 }
 
+.chatbox__content--header {
+    color: black;
+}
 .chatbox__heading--header {
     font-size: 1.2rem;
 
