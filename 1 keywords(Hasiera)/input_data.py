@@ -43,13 +43,6 @@ keywords = {
     "matricular": "request_matricula",
     "matriculacion": "request_matricula",
    
-
-    "contacto" : "request_contacto",
-    "direccion": "request_contacto",
-    "localizacion": "request_contacto",
-    "sitio": "request_contacto",
-    "encuentra": "request_contacto",
-
     "telefono": "request_telefono",
     "tlfno": "request_telefono",
     "tlfn": "request_telefono",
@@ -65,6 +58,11 @@ keywords = {
     "g-mail": "request_email",
     "mail": "request_email",
       
+    "contacto" : "request_contacto",
+    "direccion": "request_contacto",
+    "localizacion": "request_contacto",
+    "sitio": "request_contacto",
+    "encuentra": "request_contacto",
 
     "oferta": "request_oferta",
     "ofertas": "request_oferta",
