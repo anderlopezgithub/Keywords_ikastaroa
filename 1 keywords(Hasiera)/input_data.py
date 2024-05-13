@@ -5,6 +5,9 @@ keywords = {
     "buenos": "request_saludo",
     "buen": "request_saludo",
     "holi": "request_saludo",
+    "kaixo": "request_saludo",
+    "egun": "request_saludo",
+    "on": "request_saludo",
     
 
     "adios": "request_despedida",
@@ -12,6 +15,7 @@ keywords = {
     "luego": "request_despedida",
     "vista": "request_despedida",
     "agur": "request_despedida",
+    "aio": "request_despedida",
 
  
     "horario": "request_contacto_horarios",
@@ -20,28 +24,41 @@ keywords = {
     "abierta": "request_contacto_horarios",
     "secretaria": "request_contacto_horarios",
     "horarios": "request_contacto_horarios",
+    "ireki": "request_contacto_horarios",
+    "itxi": "request_contacto_horarios",
+    "ordu": "request_contacto_horarios",
+    "ordutegia": "request_contacto_horarios",
+
 
     "inscripcion": "request_inscripcion",
     "inscribirme": "request_inscripcion",
     "inscribir": "request_inscripcion",
+    "fechas": "request_inscripcion",
+    "plazo" : "request_inscripcion",
+    "plazos": "request_inscripcion",
+    "izena": "request_inscripcion",
+    "data": "request_inscripcion",
+    "epea": "request_inscripcion",
+
 
     "prematricula" : "request_pre_matricula",
     "pre-matricula": "request_pre_matricula",
-    "plazo" : "request_pre_matricula",
-    "plazos": "request_pre_matricula",
     "prematricularme": "request_pre_matricula",
     "prematricular": "request_pre_matricula",
     "prematriculacion": "request_pre_matricula",
     "pre-matricularme": "request_pre_matricula",
     "pre-matricular": "request_pre_matricula",
     "pre-matriculacion": "request_pre_matricula",
+    "aurre": "request_pre_matricula",
+    "aurre-matrikula": "request_pre_matricula",
+    "aurrematrikula": "request_pre_matricula",
     
-    "fechas": "request_pre_matricula",
-    "matriculas": "request_pre_matricula",
+    "matriculas": "request_matricula",
     "matricula" : "request_matricula",
     "matricularme": "request_matricula",
     "matricular": "request_matricula",
     "matriculacion": "request_matricula",
+    "matrikula": "request_matricula",
    
     "telefono": "request_telefono",
     "tlfno": "request_telefono",
