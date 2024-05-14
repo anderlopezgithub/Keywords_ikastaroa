@@ -95,6 +95,22 @@ keywords = {
     "formaciones": "request_oferta",
     
 
+    "proyecto": "request_innovacion",
+    "proyectos": "request_innovacion",
+    "innovacion": "request_innovacion",
+    "proiektua": "request_innovacion",
+    "berrikuntza": "request_innovacion",
+
+
+    "metodologia": "request_metodologia",
+    "clase": "request_metodologia",
+    "grupo": "request_metodologia",
+    "reto": "request_metodologia",
+    "eskola": "request_metodologia",
+    "erronka": "request_metodologia",
+    "taldelana": "request_metodologia",
+    "talde": "request_metodologia",
+    
 }
 
 
@@ -110,6 +126,9 @@ answer = {
     "request_telefono" : "El teléfono de contacto del centro es: Teléfono: 945 233 714.",
     "request_email" : "El email de contacto del centro es: icjardin@icjardin.net.",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
+
+    "request_innovacion": "El centro está comprometido con la innovación. A lo largo del curso desarrollamos diferentes proyectos. Puedes informarte sobre ellas aquí: xxx (URL)",
+    "request_metodologia": "El centro utiliza la metodología ETHAZI para el desarrollo de sus clases. Esta metodología permite al alumnado trabajar mediante retos que les acerca a la realizdad del trabajo en las empresas. Tienes más información aquí: xxx (URL)",
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
